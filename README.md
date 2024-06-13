@@ -8,7 +8,7 @@ My journey has taken some twists and turns, but I'm thankful for my unique exper
 
 ## What I'm Doing Now  :man_technologist:
 Currently, I'm honing my skills as a Software Engineer Intern at SPS Commerce. I'm learning new technologies, working on interesting projects, and collaborating with a team of incredibly talented and experienced individuals.
-Additionally, I enjoy working on fun small personal projects. I'm currently developing a procedurally generated "who-done-it" game based on sentential logic equations.
+Additionally, I enjoy working on fun small personal projects. I'm currently developing a procedurally generated "who-done-it" game based on sentential/propositional logic.
 
 ## What I'm Looking For
 I'm always open to new opportunities and challenges. If you have a project that you think I would find interesting, reach out!
